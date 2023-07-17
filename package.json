@@ -5,8 +5,8 @@
         "scripts": {
             "start": "node ./index.js"
           }
-  "main": "./index.js",
-  "typings": "./index.d.ts",
+  "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "mocha tests --recursive --timeout 5000",
     "test-single": "mocha",
